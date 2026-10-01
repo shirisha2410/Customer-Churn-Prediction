@@ -1,6 +1,12 @@
 
 # Customer Churn Prediction
 
+## Live Demo
+
+[Try the Customer Churn Prediction App]
+
+(https://customer-churn-prediction-ghwumdrdnnfvnemdldk4ak.streamlit.app)
+
 ## Project Overview
 
 This project predicts whether a customer is likely to churn using Machine Learning.
